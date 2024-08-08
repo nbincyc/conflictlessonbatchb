@@ -1,1 +1,1 @@
-cuty: Mumbai
+city: Banglore
