@@ -1,1 +1,1 @@
-cuty: None
+city: Banglore
